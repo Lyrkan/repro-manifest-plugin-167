@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "webpack src/index.js"
+  },
+  "devDependencies": {
+    "css-loader": "^2.0.0",
+    "file-loader": "^2.0.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-manifest-plugin": "^2.0.4"
+  }
+}
